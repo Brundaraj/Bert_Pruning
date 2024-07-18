@@ -1,0 +1,7 @@
+transformers 
+datasets 
+torch 
+torch_pruning
+thop
+accelerate -U
+torchinfo
